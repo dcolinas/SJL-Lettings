@@ -1,0 +1,102 @@
+#bearfam {
+  width:100%;
+  height:100vh;
+  background-image:url("../../assets/img/Webp.net-resizeimage.jpg");
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  color:#333;
+}
+
+.navbar-light .navbar-brand {
+  background-image:url("../../assets/img/logo.png");
+  background-repeat:no-repeat;
+  width:150px;
+  height:25px;
+  background-position:center;
+  background-size:contain;
+}
+
+#navcol-1 {
+  font-size:13px;
+  font-family:Montserrat, sans-serif;
+  color:rgb(255,255,255);
+  text-transform:uppercase;
+}
+
+#Title {
+  font-family:Montserrat, sans-serif;
+  font-weight:500;
+  font-style:normal;
+  color:rgb(77,77,77);
+}
+
+#TelNo {
+  font-family:Montserrat, sans-serif;
+  font-size:25px;
+  color:rgb(77,77,77);
+}
+
+.p-top {
+  color:rgb(255,255,255);
+  font-family:Montserrat, sans-serif;
+  font-weight:bold;
+}
+
+.p-bottom {
+  color:rgb(255,255,255);
+  font-family:Montserrat, sans-serif;
+}
+
+.p2-top {
+  color:rgb(254,254,254);
+}
+
+.p2-bottom {
+  color:rgb(255,255,255);
+  font-family:Montserrat, sans-serif;
+  font-weight:normal;
+}
+
+.p3-top {
+  color:rgb(254,254,254);
+  font-family:Montserrat, sans-serif;
+  font-weight:bold;
+}
+
+.p3-bottom {
+  color:rgb(255,255,255);
+  font-family:Montserrat, sans-serif;
+}
+
+.Learn-button {
+  background-color:rgba(0,98,204,0);
+  color:#ffffff;
+  border:3px solid #ffffff;
+  border-radius:30px;
+  text-align:center;
+}
+
+#Areas {
+}
+
+#areatext {
+  color:rgb(0,0,0);
+}
+
+#areastext {
+  color:rgb(0,0,0);
+  font-family:Montserrat, sans-serif;
+  padding-top:15px;
+}
+
+#londontext {
+  color:rgb(0,0,0);
+}
+
+#Londonlist {
+  color:rgb(255,255,255);
+  font-size:24px;
+  font-family:Montserrat, sans-serif;
+}
+

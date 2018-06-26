@@ -1,0 +1,54 @@
+.simple-slider .swiper-slide {
+  height:500px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+
+.simple-slider .swiper-button-next, .simple-slider .swiper-button-prev {
+  width:50px;
+  margin-left:20px;
+  margin-right:20px;
+}
+
+@media (max-width:767px) {
+  .simple-slider .swiper-button-next, .simple-slider .swiper-button-prev {
+    display:none;
+  }
+}
+
+@media (max-width:767px) {
+  .simple-slider .swiper-slide {
+    height:360px;
+  }
+}
+
+#areas {
+  color:rgba(97,164,244,0);
+}
+
+#valuation {
+  color:#ffffff;
+  font-family:Montserrat, sans-serif;
+  font-size:24px;
+}
+
+#valutationhead {
+  color:#ffffff;
+  font-size:36px;
+  padding-top:15px;
+}
+
+.container.valcontainer {
+  margin-right:0px;
+  margin-left:0px;
+  /*width:1500px;*/
+}
+
+#footer {
+  background-color:#8f8c8c;
+}
+
+.btn.btn-link.btn-block.arrow-button {
+}
+
